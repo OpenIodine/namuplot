@@ -1,6 +1,6 @@
 [project]
 name = "namuplot"
-version = "0.4.9"
+version = "0.4.10"
 description = "Light/Dark Matplotlib themes that blends well with NamuWiki's color palette."
 readme = "README.md"
 requires-python = ">=3.9"

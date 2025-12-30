@@ -34,3 +34,5 @@ jobs:
         run: uv run --isolated --no-project --with dist/*.tar.gz tests/smoke_test.py
       - name: Publish to PyPI
         uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          repository_url: https://test.pypi.org/legacy/
