@@ -1,0 +1,24 @@
+{
+    "light": {
+        "major": "#00a69c",
+        "text": "#212529",
+        "gray": "#ced4da",
+        "background": "#ffffff",
+        "a": "#367ad2",
+        "b": "#db2777",
+        "c": "#e9a019",
+        "d": "#28b472",
+        "e": "#873bb2"
+    },
+    "dark": {
+        "major": "#00a69c",
+        "text": "#e9ecef",
+        "gray": "#6c757d",
+        "background": "#181a1b",
+        "a": "#5292dc",
+        "b": "#e04788",
+        "c": "#f0b233",
+        "d": "#30c482",
+        "e": "#9b4bd2"
+    }
+}
