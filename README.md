@@ -22,8 +22,8 @@ for mode, theme in namuplot.iter_use():
 
 ## Available themes
 ```python
-import mpl_visual as mv
-print(list(mv.available()))  # [light, dark]
+import namuplot
+print(list(namuplot.available()))  # [light, dark]
 ```
 
 ## License
