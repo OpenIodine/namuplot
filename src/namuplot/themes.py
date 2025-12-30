@@ -65,11 +65,6 @@ def _build_rcparams(colors: Mapping[str, str]) -> mpl.RcParams:
         colors["c"],
         colors["d"],
         colors["e"],
-        colors["f"],
-        colors["g"],
-        colors["h"],
-        colors["i"],
-        colors["j"],
     ]
     rc["axes.prop_cycle"] = mpl.cycler(color=cycle)
 
