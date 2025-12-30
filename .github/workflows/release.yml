@@ -6,6 +6,10 @@ on:
       # Publish on any tag starting with a `v`, e.g., v0.1.0
       - v*
 
+permissions:
+  contents: read
+  id-token: write
+
 jobs:
   run:
     runs-on: ubuntu-latest
